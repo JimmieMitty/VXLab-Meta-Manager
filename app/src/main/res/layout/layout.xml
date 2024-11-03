@@ -72,10 +72,15 @@
                 android:layout_height="71dp"
                 android:text="Download" />
 
+            <Button
+                android:id="@+id/Install"
+                android:layout_width="184dp"
+                android:layout_height="71dp"
+                android:text="Install" />
+
             <FrameLayout
                 android:layout_width="484dp"
                 android:layout_height="match_parent">
-
             </FrameLayout>
 
             <TextView
